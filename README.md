@@ -30,7 +30,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 * Alan Brito
 * Elba Lazo
-* Pedro Torres Barba
+* [Pedro Torres Barba](https://github.com/torrespedrob)
 
 ## Lenguaje de programación
 
