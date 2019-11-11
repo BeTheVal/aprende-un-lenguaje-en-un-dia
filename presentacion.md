@@ -4,6 +4,7 @@ En este archivo se almacenará el guión de nuestro trabajo para el día de la p
 _Origen de Python, características principales, utilidad, crecimiento, etc..._
 ## Practicando con Python
 _Breve explicación de imprimir por pantalla, demostración de Hello World, creación de variables, entrada de datos por usuario, bucles simples, etc..._
+---
 ### 1. Demostración Ejercicio Hello World
 Usando imprimir por pantalla
 ### 2. Demostración Ejercicio Pirámides
