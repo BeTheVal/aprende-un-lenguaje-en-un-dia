@@ -29,7 +29,7 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-`Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.`
+[comment]: <> (Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.)
 
 [Python](https://www.python.org) fue diseñado por [Guido van Rossum](https://gvanrossum.github.io/) en el 1990, aunque no será hasta 2008, con la salida de la version 3.0, cuando el lenguaje adquiera notoria relevancia en el ecosistema del desarrollo.
 ![alt text](https://static.makeuseof.com/wp-content/uploads/2018/03/python-faq-670x335.jpg "python")
