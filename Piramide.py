@@ -6,13 +6,14 @@ print("Este programa dibuja una pirámide")
 alturaintroducida = int(input("Introduzca la altura de la pirámide:"))
 i = 1
 j = 10
+
 planta = 1
 longitudDeLinea = 1
-espacios = alturaintroducida - 1
-
 while i <= alturaintroducida:
     j = i
+    for esp in range(alturaintroducida-i,0,-1):
+        print(" ",end='')
     for j in range(i, 0, -1):
-        print("*"),
-
+        print(" *", end = '')
+    print ("\n", end='')
     i = i + 1
