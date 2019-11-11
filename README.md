@@ -28,8 +28,8 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* [Luca Lago Muñoz](https://github.com/ROMthesheep)
 * [Miguel Gutiérrez Pardo](https://github.com/BeTheVal)
+* [Luca Lago Muñoz](https://github.com/ROMthesheep)
 * [Pedro Torres Barba](https://github.com/torrespedrob)
 
 ## Lenguaje de programación
