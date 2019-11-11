@@ -8,21 +8,6 @@ Aprender a programar es como aprender a conducir. Si tienes una base sólida de 
 
 Con este ejercicio se pretende despertar el interés por otros lenguajes de programación distintos al que el alumno está estudiando como primer lenguaje.
 
-Sigue los pasos que se indican a continuación.
-
-## Creación del equipo
-
-Este ejercicio se debe hacer en grupos de 3 alumnos. Uno de ellos será el representante del grupo.
-
-## Forkea forkea
-
-El representante del grupo debe hacer un *fork* de este repositorio para utilizarlo como base.
-
-## Añadiendo colaboradores
-
-El encargado del grupo deberá añadir como colaboradores del repositorio *forkeado* a los otros dos miembros, para trabajar todos sobre los mismos archivos. Cuando alguien es colaborador en un repositorio, puede hacer *push* a él sin necesidad de pedir permiso o hacer *pull request*.
-
-Para añadir colaboradores hay que hacer click en la pestaña *Settings* y seleccionar luego *Collaborators* en el menú.
 
 ## Miembros del grupo
 
@@ -86,10 +71,6 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
 
 ## Recompensa
-
-* Todos los alumnos que realicen correctamente la actividad tendrán 0'25 puntos extra en la nota del trimestre.
-
-* Los miembros del equipo más votado ganarán un premio.
 
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
 
