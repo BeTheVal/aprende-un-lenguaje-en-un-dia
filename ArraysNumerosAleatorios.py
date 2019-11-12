@@ -12,3 +12,19 @@ print(aleatorios)
 
 
 """ Falta crear otra lista donde los primos de la lista "aleatorios" vayan primero"""
+def esPrimo(l):
+    primos = []
+    for i in l:
+        p = 0
+        if i == 1:
+          primos.append(i)
+        else:
+          for j in range(1,i+1):
+            if i % j == 0:
+              p += 1
+          if p == 2:
+            primos.append(i)
+    return primos
+ 
+lista = aleatorios
+print(esPrimo(lista))
