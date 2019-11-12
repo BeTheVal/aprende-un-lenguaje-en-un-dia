@@ -3,11 +3,12 @@ con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los
 muestre por pantalla. A continuación, se deben pasar los números primos
 a las primeras posiciones del array y los no primos a las posiciones restantes. 
 Muestra finalmente el array resultado. """
-
+import numpy as np
 import random
 
 n = 20
-aleatorios = [random.randint(0, 100) for _ in range(n)]
+aleatorios = [random.randint(1, 100) for _ in range(n)]
+print("Esta lista contiene 20 números aleatorios del 1 al 100: ")
 print(aleatorios)
 
 
@@ -25,6 +26,21 @@ def esPrimo(l):
           if p == 2:
             primos.append(i)
     return primos
- 
+
 lista = aleatorios
-print(esPrimo(lista))
+primos = esPrimo(lista)
+
+for x in range(len(lista)):
+    c=0
+    control = False
+    for y in range(len(primos)):
+        if lista[x]!=primos[c]:
+           control=True
+           c+=1
+        else:
+            control=False
+
+    if control== True:
+        primos.append(lista[x])
+print("\nEsta es la lista con los primos al principio")
+print (primos)
