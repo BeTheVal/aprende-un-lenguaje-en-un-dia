@@ -51,8 +51,13 @@ Entre las virtudes de este lenguaje podemos destacar las siguientes:
 ## Herramientas de desarrollo
 
 [comment]: <> (Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.)
-Lo primero, necesitamos el interprete de Pyhton para poder ejecutar nuestro codigo, a día de hoy, la ultima version es la 3.8. El [interprete de Python]() ya incluye las librerias que necesitamos, en caso contrario existe un comando que podemos ejecutar desde la propia terminal de Python para instalar librerias y modulos adicionales ([pip install](https://pypi.org/project/pip/)). Como ide podemos usar la que ya viene incluida ([idle](https://docs.python.org/3/library/idle.html)) en el interprete o cualquier otra, no es necesaria otra aplicacion para ejecutar este tipo de ficheros (.py).
+Lo primero, necesitamos el interprete de Pyhton para poder ejecutar nuestro codigo, a día de hoy, la ultima version es la 3.8. El [interprete de Python](https://www.python.org/downloads/) ya incluye las librerias que necesitamos, en caso contrario existe un comando que podemos ejecutar desde la propia terminal de Python para instalar librerias y modulos adicionales ([pip install](https://pypi.org/project/pip/)). Como ide podemos usar la que ya viene incluida ([idle](https://docs.python.org/3/library/idle.html)) en el interprete o cualquier otra, no es necesaria otra aplicacion para ejecutar este tipo de ficheros (.py).
+
+![alt text](https://files.realpython.com/media/building_with_python_watermark.2ebe5beb5b1e.jpg)
+
 A modo e documentacion, podemos ir a la [fuente oficial](https://www.python.org/doc/), una documentacion extensa pero donde notamos un poco la falta de ejemplos. Por esta razon la mayoria de nosotros hemos optado por [w3School](https://www.w3schools.com/python/) o directamente acudir a [StackOverflow](https://stackoverflow.com/questions/tagged/python) en busca de referencias.
+
+![alt text](https://www.solocodigoweb.com/wp-content/uploads/2015/05/programador_7_errores.jpg)
 
 ## Poniendo en práctica el lenguaje
 
