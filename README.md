@@ -65,12 +65,16 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 ### 1. ¡Hola mundo!
 
-Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+Este codigo es uno de los ejemplos de la intuitividad y la comodidad de este lenguaje, un claro ejemplo de su filosofia.
 
+![alt text](https://i.imgur.com/0Kz8Lvm.png)
+![alt text](https://i.imgur.com/Ow67k8Q.png)
 ### 2. Pirámide
 
-Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+Este codigo, ya siendo un poco mas complejo, podemos ver muchas de las cualidades y peculiaridades por las que se caracteriza. En este ejercicio por ejemplo se ve claramente la importancia de la indentacion en este lenguaje.
 
+![alt text](https://i.imgur.com/p020nNq.png)
+![alt text](https://i.imgur.com/zi9g6i2.png)
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
